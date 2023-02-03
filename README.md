@@ -2,20 +2,6 @@
 게임 클라이언트 프로그래머 전공 지식 &amp; 기술 면접 노트 
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=fdcb6e&height=150&section=header&text=Tech%20interview%20for%20Game-Developer(Client)🍕&fontSize=25&fontColor=e17055)
 
-- ✨Start : 2022/01/02~  ✨
-
-- 신입 게임 클라이언트 프로그래머 기술면접용 지식들을 작성하거나 참고 링크를 작성한 레포입니다.   
-- (본 레포를 정리하며 좋은 일이 많이 있었습니다. 사실 취업 후 본 레포를 수정할 계획이 없었지만 찾아주시는 분들이 꾸준히 있어 정보 공유의 순기능을 믿기에 계속 업데이트할 생각입니다.)   
-- 모든 설명과 예제 코드는 Unity(C#)위주로 작성되었습니다. C++ 관련 항목들은 중요도를 표기 못한 점 양해부탁드립니다.    
-   
-- 수정 중(⭐⭐⭐⭐⭐위주로 개념을 익힐 것을 추천드립니다.)   
-- ⭐ : 언급하게 될 가능성 낮음   
-- ⭐⭐ : 10% 미만   
-- ⭐⭐⭐ : 35% 확률   
-- ⭐⭐⭐⭐ : 65% 확률   
-- ⭐⭐⭐⭐⭐ : 80% 확률   
-- 위 확률은 개개인이 자소서, 포트폴리오에서 사용하였다고 기재한 기술에 따라 달라질 수 있습니다.   
-- ex) 포톤을 주력 기술로 내세운 분들 한정 : 포톤관련용어 ⭐⭐⭐⭐⭐
    
 # 🌑 개발상식
 *** 
@@ -40,35 +26,6 @@
 19. [프로토콜의 종류](https://helloworld-88.tistory.com/146) ⭐   
 20. [형상관리](https://goddaehee.tistory.com/158) ⭐   
 21. [.NET 어셈블리](https://docs.microsoft.com/ko-kr/dotnet/standard/assembly/)⭐⭐
-
-# 🌒 자료구조
-***
-1. [자료구조](https://blog.naver.com/tutorials_korea/221610337593) ⭐⭐⭐⭐⭐   
-2. [시간복잡도, 공간복잡도](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=raveneer&logNo=221070829018) ⭐   
-3. 스택 ⭐⭐⭐⭐   
-4. 큐 ⭐⭐⭐⭐   
-5. 해시 테이블 ⭐⭐⭐
-6. [해시테이블 딕셔너리 차이점](https://hongjinhyeon.tistory.com/87) ⭐⭐⭐   
-7. 우선순위 큐(힙) ⭐
-8. Array ⭐⭐⭐⭐
-9. [이진트리](https://bbokkie-recipe.github.io/graph/binarytree/) ⭐⭐⭐     
-10. [원형큐](https://rainbowcode.tistory.com/57?category=945513) ⭐   
-
-# 🌓 알고리즘
-***
-1. fibonacci 함수 ⭐   
-2. 퀵 소트 ⭐   
-3. 힙 소트 ⭐   
-4. 머지 소트 ⭐   
-5. 삽입 소트 ⭐   
-6. 선택 소트 ⭐   
-7. 버블 소트 ⭐   
-8. DFS ⭐   
-9. BFS ⭐   
-10. 다익스트라 알고리즘 ⭐   
-11. 크루스칼 알고리즘 ⭐   
-12. [A* 알고리즘](http://www.gisdeveloper.co.kr/?p=3897) ⭐   
-
 
 # 🌔 디자인패턴
 ***
@@ -125,25 +82,6 @@
 40. [구조체(클래스와의 차이점),readonly 구조체](https://rainbowcode.tistory.com/168) ⭐⭐
 41. [튜플](https://rainbowcode.tistory.com/170) ⭐
 
-# 🌖 언어(C++)
-***
-1. 캐스팅의 종류와 역할
-2. 오버로딩
-3. 오버라이딩
-4. static
-5. virtual
-6. abstract
-8. friend 함수
-9. 가상소멸자를 사용하는 이유
-10. 추상클래스
-11. STL
-12. 인라인
-13. 생성자
-14. [Call by value(콜 바이 벨류), Call by reference(콜 바이 레퍼런스), Pass by reference(패스 바이 레퍼런스)란?](https://m.blog.naver.com/daum7766/221673227186) ⭐⭐⭐⭐⭐
-15. [상속](https://blog.hexabrain.net/173)
-16. [Try Catch](https://blog.hexabrain.net/179) ⭐⭐
-17. 
-
 # 🌗 Unity
 ***
 1. [라이프사이클](https://docs.unity3d.com/kr/2019.4/Manual/ExecutionOrder.html) ⭐⭐⭐⭐⭐   
@@ -187,10 +125,6 @@
 7. [Pun 함수](https://doc-api.photonengine.com/en/pun/v1/functions_func_o.html) ⭐   
 9. [데이터베이스나 파일시스템의 구현](https://coderzero.tistory.com/entry/유니티-C-강좌-24-파일-입출력) ⭐   
 10. [유니티에서 JSON 사용하기](https://wergia.tistory.com/164) ⭐   
-
-# 🌘 언리얼
-***
-1. [Unity 개발자를 위한 언리얼 가이드](https://docs.unrealengine.com/4.26/en-US/Basics/UnrealEngineForUnityDevs/) ⭐   
 
 # 🌚 UGUI/그래픽스
 ***
